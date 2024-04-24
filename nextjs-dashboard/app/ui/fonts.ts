@@ -1,6 +1,6 @@
 import { Inter, Jacques_Francois, Lusitana } from 'next/font/google';
 
-export const inter = Inter({ subsets: ['latin'],  display: 'swap'} );
+export const inter = Inter({ subsets: ['latin']} );
 
 export const jacques_francois = Jacques_Francois({ 
   weight:['400'],
